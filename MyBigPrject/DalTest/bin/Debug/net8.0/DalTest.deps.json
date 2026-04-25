@@ -1,0 +1,89 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DalTest/1.0.0": {
+        "dependencies": {
+          "DalList": "1.0.0",
+          "DalXml": "1.0.0",
+          "Dalfacade": "1.0.0"
+        },
+        "runtime": {
+          "DalTest.dll": {}
+        }
+      },
+      "ServiceStack.Interfaces/10.0.4": {
+        "runtime": {
+          "lib/net8.0/ServiceStack.Interfaces.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "10.0.4.0"
+          }
+        }
+      },
+      "Dalfacade/1.0.0": {
+        "runtime": {
+          "Dalfacade.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "DalList/1.0.0": {
+        "dependencies": {
+          "Dalfacade": "1.0.0",
+          "ServiceStack.Interfaces": "10.0.4"
+        },
+        "runtime": {
+          "DalList.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "DalXml/1.0.0": {
+        "dependencies": {
+          "Dalfacade": "1.0.0"
+        },
+        "runtime": {
+          "DalXml.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DalTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ServiceStack.Interfaces/10.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-g371IdrezsHj7y3OwBTYYIlPFC6OkWMs/Ld/GTtfKsYXOtaB2lkzIDDODIbxgj8dQR2bJeCapkeZVUF2lZu2kQ==",
+      "path": "servicestack.interfaces/10.0.4",
+      "hashPath": "servicestack.interfaces.10.0.4.nupkg.sha512"
+    },
+    "Dalfacade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DalList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DalXml/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

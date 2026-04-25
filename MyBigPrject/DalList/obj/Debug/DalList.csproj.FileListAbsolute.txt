@@ -1,0 +1,13 @@
+C:\Users\user1\Documents\c# net\MyBigPrject\bin\DalList.deps.json
+C:\Users\user1\Documents\c# net\MyBigPrject\bin\DalList.dll
+C:\Users\user1\Documents\c# net\MyBigPrject\bin\DalList.pdb
+C:\Users\user1\Documents\c# net\MyBigPrject\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\c# net\MyBigPrject\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\c# net\MyBigPrject\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\c# net\MyBigPrject\DalList\obj\Debug\DalList.AssemblyInfo.cs
+C:\Users\user1\Documents\c# net\MyBigPrject\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\c# net\MyBigPrject\DalList\obj\Debug\DalList.csproj.Up2Date
+C:\Users\user1\Documents\c# net\MyBigPrject\DalList\obj\Debug\DalList.dll
+C:\Users\user1\Documents\c# net\MyBigPrject\DalList\obj\Debug\refint\DalList.dll
+C:\Users\user1\Documents\c# net\MyBigPrject\DalList\obj\Debug\DalList.pdb
+C:\Users\user1\Documents\c# net\MyBigPrject\DalList\obj\Debug\ref\DalList.dll

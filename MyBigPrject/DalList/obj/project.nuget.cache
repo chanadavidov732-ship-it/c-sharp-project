@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7B8uhAdSV0k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user1\\Documents\\c# net\\MyBigPrject\\DalList\\DalList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\servicestack.interfaces\\10.0.4\\servicestack.interfaces.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

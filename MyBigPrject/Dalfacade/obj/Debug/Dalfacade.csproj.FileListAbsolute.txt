@@ -1,0 +1,11 @@
+C:\Users\user1\Documents\c# net\MyBigPrject\bin\Dalfacade.deps.json
+C:\Users\user1\Documents\c# net\MyBigPrject\bin\Dalfacade.dll
+C:\Users\user1\Documents\c# net\MyBigPrject\bin\Dalfacade.pdb
+C:\Users\user1\Documents\c# net\MyBigPrject\Dalfacade\obj\Debug\Dalfacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\c# net\MyBigPrject\Dalfacade\obj\Debug\Dalfacade.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\c# net\MyBigPrject\Dalfacade\obj\Debug\Dalfacade.AssemblyInfo.cs
+C:\Users\user1\Documents\c# net\MyBigPrject\Dalfacade\obj\Debug\Dalfacade.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\c# net\MyBigPrject\Dalfacade\obj\Debug\Dalfacade.dll
+C:\Users\user1\Documents\c# net\MyBigPrject\Dalfacade\obj\Debug\refint\Dalfacade.dll
+C:\Users\user1\Documents\c# net\MyBigPrject\Dalfacade\obj\Debug\Dalfacade.pdb
+C:\Users\user1\Documents\c# net\MyBigPrject\Dalfacade\obj\Debug\ref\Dalfacade.dll

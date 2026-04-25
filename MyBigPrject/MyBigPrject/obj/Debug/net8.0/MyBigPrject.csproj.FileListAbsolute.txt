@@ -1,0 +1,14 @@
+M:\C#\project\MyBigPrject\MyBigPrject\bin\Debug\net8.0\MyBigPrject.exe
+M:\C#\project\MyBigPrject\MyBigPrject\bin\Debug\net8.0\MyBigPrject.deps.json
+M:\C#\project\MyBigPrject\MyBigPrject\bin\Debug\net8.0\MyBigPrject.runtimeconfig.json
+M:\C#\project\MyBigPrject\MyBigPrject\bin\Debug\net8.0\MyBigPrject.dll
+M:\C#\project\MyBigPrject\MyBigPrject\bin\Debug\net8.0\MyBigPrject.pdb
+M:\C#\project\MyBigPrject\MyBigPrject\obj\Debug\net8.0\MyBigPrject.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\project\MyBigPrject\MyBigPrject\obj\Debug\net8.0\MyBigPrject.AssemblyInfoInputs.cache
+M:\C#\project\MyBigPrject\MyBigPrject\obj\Debug\net8.0\MyBigPrject.AssemblyInfo.cs
+M:\C#\project\MyBigPrject\MyBigPrject\obj\Debug\net8.0\MyBigPrject.csproj.CoreCompileInputs.cache
+M:\C#\project\MyBigPrject\MyBigPrject\obj\Debug\net8.0\MyBigPrject.dll
+M:\C#\project\MyBigPrject\MyBigPrject\obj\Debug\net8.0\refint\MyBigPrject.dll
+M:\C#\project\MyBigPrject\MyBigPrject\obj\Debug\net8.0\MyBigPrject.pdb
+M:\C#\project\MyBigPrject\MyBigPrject\obj\Debug\net8.0\MyBigPrject.genruntimeconfig.cache
+M:\C#\project\MyBigPrject\MyBigPrject\obj\Debug\net8.0\ref\MyBigPrject.dll

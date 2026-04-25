@@ -1,0 +1,15 @@
+M:\C#\projectחני וחנה\MyBigPrject\DalXml\obj\Debug\net8.0\DalXml.csproj.AssemblyReference.cache
+M:\C#\projectחני וחנה\MyBigPrject\DalXml\obj\Debug\net8.0\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\projectחני וחנה\MyBigPrject\DalXml\obj\Debug\net8.0\DalXml.AssemblyInfoInputs.cache
+M:\C#\projectחני וחנה\MyBigPrject\DalXml\obj\Debug\net8.0\DalXml.AssemblyInfo.cs
+M:\C#\projectחני וחנה\MyBigPrject\DalXml\obj\Debug\net8.0\DalXml.csproj.CoreCompileInputs.cache
+M:\C#\projectחני וחנה\MyBigPrject\DalXml\bin\Debug\net8.0\DalXml.deps.json
+M:\C#\projectחני וחנה\MyBigPrject\DalXml\bin\Debug\net8.0\DalXml.dll
+M:\C#\projectחני וחנה\MyBigPrject\DalXml\bin\Debug\net8.0\DalXml.pdb
+M:\C#\projectחני וחנה\MyBigPrject\DalXml\bin\Debug\net8.0\Dalfacade.dll
+M:\C#\projectחני וחנה\MyBigPrject\DalXml\bin\Debug\net8.0\Dalfacade.pdb
+M:\C#\projectחני וחנה\MyBigPrject\DalXml\obj\Debug\net8.0\DalXml.csproj.Up2Date
+M:\C#\projectחני וחנה\MyBigPrject\DalXml\obj\Debug\net8.0\DalXml.dll
+M:\C#\projectחני וחנה\MyBigPrject\DalXml\obj\Debug\net8.0\refint\DalXml.dll
+M:\C#\projectחני וחנה\MyBigPrject\DalXml\obj\Debug\net8.0\DalXml.pdb
+M:\C#\projectחני וחנה\MyBigPrject\DalXml\obj\Debug\net8.0\ref\DalXml.dll

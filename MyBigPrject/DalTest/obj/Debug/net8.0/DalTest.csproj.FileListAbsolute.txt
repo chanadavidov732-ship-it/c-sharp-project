@@ -1,0 +1,74 @@
+M:\C#\project\MyBigPrject\DalTest\bin\Debug\net8.0\DalTest.exe
+M:\C#\project\MyBigPrject\DalTest\bin\Debug\net8.0\DalTest.deps.json
+M:\C#\project\MyBigPrject\DalTest\bin\Debug\net8.0\DalTest.runtimeconfig.json
+M:\C#\project\MyBigPrject\DalTest\bin\Debug\net8.0\DalTest.dll
+M:\C#\project\MyBigPrject\DalTest\bin\Debug\net8.0\DalTest.pdb
+M:\C#\project\MyBigPrject\DalTest\bin\Debug\net8.0\Dalfacade.dll
+M:\C#\project\MyBigPrject\DalTest\bin\Debug\net8.0\DalList.dll
+M:\C#\project\MyBigPrject\DalTest\bin\Debug\net8.0\Dalfacade.pdb
+M:\C#\project\MyBigPrject\DalTest\bin\Debug\net8.0\DalList.pdb
+M:\C#\project\MyBigPrject\DalTest\obj\Debug\net8.0\DalTest.csproj.AssemblyReference.cache
+M:\C#\project\MyBigPrject\DalTest\obj\Debug\net8.0\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\project\MyBigPrject\DalTest\obj\Debug\net8.0\DalTest.AssemblyInfoInputs.cache
+M:\C#\project\MyBigPrject\DalTest\obj\Debug\net8.0\DalTest.AssemblyInfo.cs
+M:\C#\project\MyBigPrject\DalTest\obj\Debug\net8.0\DalTest.csproj.CoreCompileInputs.cache
+M:\C#\project\MyBigPrject\DalTest\obj\Debug\net8.0\DalTest.csproj.Up2Date
+M:\C#\project\MyBigPrject\DalTest\obj\Debug\net8.0\DalTest.dll
+M:\C#\project\MyBigPrject\DalTest\obj\Debug\net8.0\refint\DalTest.dll
+M:\C#\project\MyBigPrject\DalTest\obj\Debug\net8.0\DalTest.pdb
+M:\C#\project\MyBigPrject\DalTest\obj\Debug\net8.0\DalTest.genruntimeconfig.cache
+M:\C#\project\MyBigPrject\DalTest\obj\Debug\net8.0\ref\DalTest.dll
+T:\יד\בינה\C# .NET\projectחני וחנה\MyBigPrject\DalTest\obj\Debug\net8.0\DalTest.csproj.AssemblyReference.cache
+T:\יד\בינה\C# .NET\projectחני וחנה\MyBigPrject\DalTest\obj\Debug\net8.0\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+T:\יד\בינה\C# .NET\projectחני וחנה\MyBigPrject\DalTest\obj\Debug\net8.0\DalTest.AssemblyInfoInputs.cache
+T:\יד\בינה\C# .NET\projectחני וחנה\MyBigPrject\DalTest\obj\Debug\net8.0\DalTest.AssemblyInfo.cs
+T:\יד\בינה\C# .NET\projectחני וחנה\MyBigPrject\DalTest\obj\Debug\net8.0\DalTest.csproj.CoreCompileInputs.cache
+T:\יד\בינה\C# .NET\projectחני וחנה\MyBigPrject\DalTest\obj\Debug\net8.0\DalTest.sourcelink.json
+T:\יד\בינה\C# .NET\projectחני וחנה\MyBigPrject\DalTest\obj\Debug\net8.0\DalTest.dll
+T:\יד\בינה\C# .NET\projectחני וחנה\MyBigPrject\DalTest\obj\Debug\net8.0\refint\DalTest.dll
+T:\יד\בינה\C# .NET\projectחני וחנה\MyBigPrject\DalTest\obj\Debug\net8.0\DalTest.pdb
+M:\projectחני וחנה\MyBigPrject\DalTest\bin\Debug\net8.0\DalTest.exe
+M:\projectחני וחנה\MyBigPrject\DalTest\bin\Debug\net8.0\DalTest.deps.json
+M:\projectחני וחנה\MyBigPrject\DalTest\bin\Debug\net8.0\DalTest.runtimeconfig.json
+M:\projectחני וחנה\MyBigPrject\DalTest\bin\Debug\net8.0\DalTest.dll
+M:\projectחני וחנה\MyBigPrject\DalTest\bin\Debug\net8.0\DalTest.pdb
+M:\projectחני וחנה\MyBigPrject\DalTest\bin\Debug\net8.0\ServiceStack.Interfaces.dll
+M:\projectחני וחנה\MyBigPrject\DalTest\bin\Debug\net8.0\Dalfacade.dll
+M:\projectחני וחנה\MyBigPrject\DalTest\bin\Debug\net8.0\DalList.dll
+M:\projectחני וחנה\MyBigPrject\DalTest\bin\Debug\net8.0\Dalfacade.pdb
+M:\projectחני וחנה\MyBigPrject\DalTest\bin\Debug\net8.0\DalList.pdb
+M:\projectחני וחנה\MyBigPrject\DalTest\obj\Debug\net8.0\DalTest.csproj.AssemblyReference.cache
+M:\projectחני וחנה\MyBigPrject\DalTest\obj\Debug\net8.0\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+M:\projectחני וחנה\MyBigPrject\DalTest\obj\Debug\net8.0\DalTest.AssemblyInfoInputs.cache
+M:\projectחני וחנה\MyBigPrject\DalTest\obj\Debug\net8.0\DalTest.AssemblyInfo.cs
+M:\projectחני וחנה\MyBigPrject\DalTest\obj\Debug\net8.0\DalTest.csproj.CoreCompileInputs.cache
+M:\projectחני וחנה\MyBigPrject\DalTest\obj\Debug\net8.0\DalTest.sourcelink.json
+M:\projectחני וחנה\MyBigPrject\DalTest\obj\Debug\net8.0\DalTest.csproj.Up2Date
+M:\projectחני וחנה\MyBigPrject\DalTest\obj\Debug\net8.0\DalTest.dll
+M:\projectחני וחנה\MyBigPrject\DalTest\obj\Debug\net8.0\refint\DalTest.dll
+M:\projectחני וחנה\MyBigPrject\DalTest\obj\Debug\net8.0\DalTest.pdb
+M:\projectחני וחנה\MyBigPrject\DalTest\obj\Debug\net8.0\DalTest.genruntimeconfig.cache
+M:\projectחני וחנה\MyBigPrject\DalTest\obj\Debug\net8.0\ref\DalTest.dll
+M:\C#\projectחני וחנה\MyBigPrject\DalTest\bin\Debug\net8.0\DalTest.exe
+M:\C#\projectחני וחנה\MyBigPrject\DalTest\bin\Debug\net8.0\DalTest.deps.json
+M:\C#\projectחני וחנה\MyBigPrject\DalTest\bin\Debug\net8.0\DalTest.runtimeconfig.json
+M:\C#\projectחני וחנה\MyBigPrject\DalTest\bin\Debug\net8.0\DalTest.dll
+M:\C#\projectחני וחנה\MyBigPrject\DalTest\bin\Debug\net8.0\DalTest.pdb
+M:\C#\projectחני וחנה\MyBigPrject\DalTest\bin\Debug\net8.0\ServiceStack.Interfaces.dll
+M:\C#\projectחני וחנה\MyBigPrject\DalTest\bin\Debug\net8.0\Dalfacade.dll
+M:\C#\projectחני וחנה\MyBigPrject\DalTest\bin\Debug\net8.0\DalList.dll
+M:\C#\projectחני וחנה\MyBigPrject\DalTest\bin\Debug\net8.0\Dalfacade.pdb
+M:\C#\projectחני וחנה\MyBigPrject\DalTest\bin\Debug\net8.0\DalList.pdb
+M:\C#\projectחני וחנה\MyBigPrject\DalTest\obj\Debug\net8.0\DalTest.csproj.AssemblyReference.cache
+M:\C#\projectחני וחנה\MyBigPrject\DalTest\obj\Debug\net8.0\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\projectחני וחנה\MyBigPrject\DalTest\obj\Debug\net8.0\DalTest.AssemblyInfoInputs.cache
+M:\C#\projectחני וחנה\MyBigPrject\DalTest\obj\Debug\net8.0\DalTest.AssemblyInfo.cs
+M:\C#\projectחני וחנה\MyBigPrject\DalTest\obj\Debug\net8.0\DalTest.csproj.CoreCompileInputs.cache
+M:\C#\projectחני וחנה\MyBigPrject\DalTest\obj\Debug\net8.0\DalTest.csproj.Up2Date
+M:\C#\projectחני וחנה\MyBigPrject\DalTest\obj\Debug\net8.0\DalTest.dll
+M:\C#\projectחני וחנה\MyBigPrject\DalTest\obj\Debug\net8.0\refint\DalTest.dll
+M:\C#\projectחני וחנה\MyBigPrject\DalTest\obj\Debug\net8.0\DalTest.pdb
+M:\C#\projectחני וחנה\MyBigPrject\DalTest\obj\Debug\net8.0\DalTest.genruntimeconfig.cache
+M:\C#\projectחני וחנה\MyBigPrject\DalTest\obj\Debug\net8.0\ref\DalTest.dll
+M:\C#\projectחני וחנה\MyBigPrject\DalTest\bin\Debug\net8.0\DalXml.dll
+M:\C#\projectחני וחנה\MyBigPrject\DalTest\bin\Debug\net8.0\DalXml.pdb

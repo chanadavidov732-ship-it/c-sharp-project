@@ -1,0 +1,64 @@
+M:\C#\project\MyBigPrject\DalList\bin\Debug\net8.0\DalList.deps.json
+M:\C#\project\MyBigPrject\DalList\bin\Debug\net8.0\DalList.dll
+M:\C#\project\MyBigPrject\DalList\bin\Debug\net8.0\DalList.pdb
+M:\C#\project\MyBigPrject\DalList\bin\Debug\net8.0\Dalfacade.dll
+M:\C#\project\MyBigPrject\DalList\bin\Debug\net8.0\Dalfacade.pdb
+M:\C#\project\MyBigPrject\DalList\obj\Debug\net8.0\DalList.csproj.AssemblyReference.cache
+M:\C#\project\MyBigPrject\DalList\obj\Debug\net8.0\DalList.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\project\MyBigPrject\DalList\obj\Debug\net8.0\DalList.AssemblyInfoInputs.cache
+M:\C#\project\MyBigPrject\DalList\obj\Debug\net8.0\DalList.AssemblyInfo.cs
+M:\C#\project\MyBigPrject\DalList\obj\Debug\net8.0\DalList.csproj.CoreCompileInputs.cache
+M:\C#\project\MyBigPrject\DalList\obj\Debug\net8.0\DalList.csproj.Up2Date
+M:\C#\project\MyBigPrject\DalList\obj\Debug\net8.0\DalList.dll
+M:\C#\project\MyBigPrject\DalList\obj\Debug\net8.0\refint\DalList.dll
+M:\C#\project\MyBigPrject\DalList\obj\Debug\net8.0\DalList.pdb
+M:\C#\project\MyBigPrject\DalList\obj\Debug\net8.0\ref\DalList.dll
+M:\Seminar\Handesaim\14\chanadavidov\C#\project\MyBigPrject\DalList\obj\Debug\net8.0\DalList.csproj.AssemblyReference.cache
+M:\Seminar\Handesaim\14\chanadavidov\C#\project\MyBigPrject\DalList\obj\Debug\net8.0\DalList.GeneratedMSBuildEditorConfig.editorconfig
+M:\Seminar\Handesaim\14\chanadavidov\C#\project\MyBigPrject\DalList\obj\Debug\net8.0\DalList.AssemblyInfoInputs.cache
+M:\Seminar\Handesaim\14\chanadavidov\C#\project\MyBigPrject\DalList\obj\Debug\net8.0\DalList.AssemblyInfo.cs
+M:\Seminar\Handesaim\14\chanadavidov\C#\project\MyBigPrject\DalList\obj\Debug\net8.0\DalList.csproj.CoreCompileInputs.cache
+M:\Seminar\Handesaim\14\chanadavidov\C#\project\MyBigPrject\DalList\obj\Debug\net8.0\DalList.sourcelink.json
+M:\Seminar\Handesaim\14\chanadavidov\C#\project\MyBigPrject\DalList\obj\Debug\net8.0\DalList.dll
+M:\Seminar\Handesaim\14\chanadavidov\C#\project\MyBigPrject\DalList\obj\Debug\net8.0\refint\DalList.dll
+M:\Seminar\Handesaim\14\chanadavidov\C#\project\MyBigPrject\DalList\obj\Debug\net8.0\DalList.pdb
+T:\יד\בינה\C# .NET\projectחני וחנה\MyBigPrject\DalList\obj\Debug\net8.0\DalList.csproj.AssemblyReference.cache
+T:\יד\בינה\C# .NET\projectחני וחנה\MyBigPrject\DalList\obj\Debug\net8.0\DalList.GeneratedMSBuildEditorConfig.editorconfig
+T:\יד\בינה\C# .NET\projectחני וחנה\MyBigPrject\DalList\obj\Debug\net8.0\DalList.AssemblyInfoInputs.cache
+T:\יד\בינה\C# .NET\projectחני וחנה\MyBigPrject\DalList\obj\Debug\net8.0\DalList.AssemblyInfo.cs
+T:\יד\בינה\C# .NET\projectחני וחנה\MyBigPrject\DalList\obj\Debug\net8.0\DalList.csproj.CoreCompileInputs.cache
+T:\יד\בינה\C# .NET\projectחני וחנה\MyBigPrject\DalList\obj\Debug\net8.0\DalList.sourcelink.json
+T:\יד\בינה\C# .NET\projectחני וחנה\MyBigPrject\DalList\obj\Debug\net8.0\DalList.dll
+T:\יד\בינה\C# .NET\projectחני וחנה\MyBigPrject\DalList\obj\Debug\net8.0\refint\DalList.dll
+T:\יד\בינה\C# .NET\projectחני וחנה\MyBigPrject\DalList\obj\Debug\net8.0\DalList.pdb
+M:\projectחני וחנה\MyBigPrject\DalList\bin\Debug\net8.0\DalList.deps.json
+M:\projectחני וחנה\MyBigPrject\DalList\bin\Debug\net8.0\DalList.dll
+M:\projectחני וחנה\MyBigPrject\DalList\bin\Debug\net8.0\DalList.pdb
+M:\projectחני וחנה\MyBigPrject\DalList\bin\Debug\net8.0\Dalfacade.dll
+M:\projectחני וחנה\MyBigPrject\DalList\bin\Debug\net8.0\Dalfacade.pdb
+M:\projectחני וחנה\MyBigPrject\DalList\obj\Debug\net8.0\DalList.csproj.AssemblyReference.cache
+M:\projectחני וחנה\MyBigPrject\DalList\obj\Debug\net8.0\DalList.GeneratedMSBuildEditorConfig.editorconfig
+M:\projectחני וחנה\MyBigPrject\DalList\obj\Debug\net8.0\DalList.AssemblyInfoInputs.cache
+M:\projectחני וחנה\MyBigPrject\DalList\obj\Debug\net8.0\DalList.AssemblyInfo.cs
+M:\projectחני וחנה\MyBigPrject\DalList\obj\Debug\net8.0\DalList.csproj.CoreCompileInputs.cache
+M:\projectחני וחנה\MyBigPrject\DalList\obj\Debug\net8.0\DalList.sourcelink.json
+M:\projectחני וחנה\MyBigPrject\DalList\obj\Debug\net8.0\DalList.csproj.Up2Date
+M:\projectחני וחנה\MyBigPrject\DalList\obj\Debug\net8.0\DalList.dll
+M:\projectחני וחנה\MyBigPrject\DalList\obj\Debug\net8.0\refint\DalList.dll
+M:\projectחני וחנה\MyBigPrject\DalList\obj\Debug\net8.0\DalList.pdb
+M:\projectחני וחנה\MyBigPrject\DalList\obj\Debug\net8.0\ref\DalList.dll
+M:\C#\projectחני וחנה\MyBigPrject\DalList\bin\Debug\net8.0\DalList.deps.json
+M:\C#\projectחני וחנה\MyBigPrject\DalList\bin\Debug\net8.0\DalList.dll
+M:\C#\projectחני וחנה\MyBigPrject\DalList\bin\Debug\net8.0\DalList.pdb
+M:\C#\projectחני וחנה\MyBigPrject\DalList\bin\Debug\net8.0\Dalfacade.dll
+M:\C#\projectחני וחנה\MyBigPrject\DalList\bin\Debug\net8.0\Dalfacade.pdb
+M:\C#\projectחני וחנה\MyBigPrject\DalList\obj\Debug\net8.0\DalList.csproj.AssemblyReference.cache
+M:\C#\projectחני וחנה\MyBigPrject\DalList\obj\Debug\net8.0\DalList.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\projectחני וחנה\MyBigPrject\DalList\obj\Debug\net8.0\DalList.AssemblyInfoInputs.cache
+M:\C#\projectחני וחנה\MyBigPrject\DalList\obj\Debug\net8.0\DalList.AssemblyInfo.cs
+M:\C#\projectחני וחנה\MyBigPrject\DalList\obj\Debug\net8.0\DalList.csproj.CoreCompileInputs.cache
+M:\C#\projectחני וחנה\MyBigPrject\DalList\obj\Debug\net8.0\DalList.csproj.Up2Date
+M:\C#\projectחני וחנה\MyBigPrject\DalList\obj\Debug\net8.0\DalList.dll
+M:\C#\projectחני וחנה\MyBigPrject\DalList\obj\Debug\net8.0\refint\DalList.dll
+M:\C#\projectחני וחנה\MyBigPrject\DalList\obj\Debug\net8.0\DalList.pdb
+M:\C#\projectחני וחנה\MyBigPrject\DalList\obj\Debug\net8.0\ref\DalList.dll

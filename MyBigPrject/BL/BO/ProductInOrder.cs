@@ -12,10 +12,18 @@ namespace BO
         public string ProductOrderName { get; set; }
         public double ProductOrderPrice { get; set; }
         public int ProductOrderCount { get; set; }
-        List<SaleInProduct> ListSaleInProductOrder;
+        public List<SaleInProduct> ListSaleInProductOrder;
         public double ProductOrderTotalPrice { get; set; }
 
         public ProductInOrder() {}
-        //full ctor
+        public ProductInOrder(int productOrderId, string productOrderName, double productOrderPrice, int productOrderCount, List<SaleInProduct> listSaleInProductOrder, double productOrderTotalPrice)
+        {
+            ProductOrderId = productOrderId;
+            ProductOrderName = productOrderName;
+            ProductOrderPrice = productOrderPrice;
+            ProductOrderCount = productOrderCount;
+            ListSaleInProductOrder = listSaleInProductOrder;
+            ProductOrderTotalPrice = productOrderTotalPrice;
+        }
     }
 }

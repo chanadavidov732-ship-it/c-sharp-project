@@ -13,6 +13,12 @@ namespace BO
         public double SaleProductPrice { get; set; }
         public bool SaleProductCustomer { get; set; }
         public SaleInProduct() {}
-        //full ctor
+        public SaleInProduct(int saleProductId, int saleProductCount, double saleProductPrice, bool saleProductCustomer)
+        {
+            SaleProductId = saleProductId;
+            SaleProductCount = saleProductCount;
+            SaleProductPrice = saleProductPrice;
+            SaleProductCustomer = saleProductCustomer;
+        }
     }
 }

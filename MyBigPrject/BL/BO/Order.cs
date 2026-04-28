@@ -10,6 +10,6 @@ namespace BO
     {
         public bool member { get; set; }
         public int TotalPrice { get; set; }
-        List<ProductInOrder> ProductListInOrder { get; set; }
+        public List<ProductInOrder> ProductListInOrder { get; set; }
     }
 }

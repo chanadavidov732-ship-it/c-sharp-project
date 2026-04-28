@@ -91,23 +91,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user1\\.nuget\\packages\\": {},
+    "C:\\Users\\chanadavidov\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user1\\Documents\\c# net\\MyBigPrject\\DalTest\\DalTest.csproj",
+      "projectUniqueName": "M:\\C#\\gitproj\\c-sharp-project\\MyBigPrject\\DalTest\\DalTest.csproj",
       "projectName": "DalTest",
-      "projectPath": "C:\\Users\\user1\\Documents\\c# net\\MyBigPrject\\DalTest\\DalTest.csproj",
-      "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user1\\Documents\\c# net\\MyBigPrject\\DalTest\\obj\\",
+      "projectPath": "M:\\C#\\gitproj\\c-sharp-project\\MyBigPrject\\DalTest\\DalTest.csproj",
+      "packagesPath": "C:\\Users\\chanadavidov\\.nuget\\packages\\",
+      "outputPath": "M:\\C#\\gitproj\\c-sharp-project\\MyBigPrject\\DalTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\chanadavidov\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -123,14 +123,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\user1\\Documents\\c# net\\MyBigPrject\\Dalfacade\\Dalfacade.csproj": {
-              "projectPath": "C:\\Users\\user1\\Documents\\c# net\\MyBigPrject\\Dalfacade\\Dalfacade.csproj"
+            "M:\\C#\\gitproj\\c-sharp-project\\MyBigPrject\\Dalfacade\\Dalfacade.csproj": {
+              "projectPath": "M:\\C#\\gitproj\\c-sharp-project\\MyBigPrject\\Dalfacade\\Dalfacade.csproj"
             },
-            "C:\\Users\\user1\\Documents\\c# net\\MyBigPrject\\DalList\\DalList.csproj": {
-              "projectPath": "C:\\Users\\user1\\Documents\\c# net\\MyBigPrject\\DalList\\DalList.csproj"
+            "M:\\C#\\gitproj\\c-sharp-project\\MyBigPrject\\DalList\\DalList.csproj": {
+              "projectPath": "M:\\C#\\gitproj\\c-sharp-project\\MyBigPrject\\DalList\\DalList.csproj"
             },
-            "C:\\Users\\user1\\Documents\\c# net\\MyBigPrject\\DalXml\\DalXml.csproj": {
-              "projectPath": "C:\\Users\\user1\\Documents\\c# net\\MyBigPrject\\DalXml\\DalXml.csproj"
+            "M:\\C#\\gitproj\\c-sharp-project\\MyBigPrject\\DalXml\\DalXml.csproj": {
+              "projectPath": "M:\\C#\\gitproj\\c-sharp-project\\MyBigPrject\\DalXml\\DalXml.csproj"
             }
           }
         }
@@ -144,8 +144,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.300"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -166,7 +165,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

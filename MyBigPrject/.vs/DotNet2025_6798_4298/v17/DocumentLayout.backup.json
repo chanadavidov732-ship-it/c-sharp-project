@@ -26,16 +26,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Config.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\c# net\\MyBigPrject\\DalXml\\Config.cs",
               "RelativeDocumentMoniker": "DalXml\\Config.cs",
-              "ToolTip": "C:\\Users\\user1\\Documents\\c# net\\MyBigPrject\\DalXml\\Config.cs*",
-              "RelativeToolTip": "DalXml\\Config.cs*",
+              "ToolTip": "C:\\Users\\user1\\Documents\\c# net\\MyBigPrject\\DalXml\\Config.cs",
+              "RelativeToolTip": "DalXml\\Config.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-25T19:46:41.987Z",
@@ -47,8 +51,8 @@
               "Title": "SaleImplementation.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\c# net\\MyBigPrject\\DalXml\\SaleImplementation.cs",
               "RelativeDocumentMoniker": "DalXml\\SaleImplementation.cs",
-              "ToolTip": "C:\\Users\\user1\\Documents\\c# net\\MyBigPrject\\DalXml\\SaleImplementation.cs*",
-              "RelativeToolTip": "DalXml\\SaleImplementation.cs*",
+              "ToolTip": "C:\\Users\\user1\\Documents\\c# net\\MyBigPrject\\DalXml\\SaleImplementation.cs",
+              "RelativeToolTip": "DalXml\\SaleImplementation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-25T19:44:57.131Z",
@@ -60,8 +64,8 @@
               "Title": "ProductImplementation.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\c# net\\MyBigPrject\\DalXml\\ProductImplementation.cs",
               "RelativeDocumentMoniker": "DalXml\\ProductImplementation.cs",
-              "ToolTip": "C:\\Users\\user1\\Documents\\c# net\\MyBigPrject\\DalXml\\ProductImplementation.cs*",
-              "RelativeToolTip": "DalXml\\ProductImplementation.cs*",
+              "ToolTip": "C:\\Users\\user1\\Documents\\c# net\\MyBigPrject\\DalXml\\ProductImplementation.cs",
+              "RelativeToolTip": "DalXml\\ProductImplementation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-25T19:44:54.026Z",
@@ -73,16 +77,12 @@
               "Title": "CustomerImplementation.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\c# net\\MyBigPrject\\DalXml\\CustomerImplementation.cs",
               "RelativeDocumentMoniker": "DalXml\\CustomerImplementation.cs",
-              "ToolTip": "C:\\Users\\user1\\Documents\\c# net\\MyBigPrject\\DalXml\\CustomerImplementation.cs*",
-              "RelativeToolTip": "DalXml\\CustomerImplementation.cs*",
+              "ToolTip": "C:\\Users\\user1\\Documents\\c# net\\MyBigPrject\\DalXml\\CustomerImplementation.cs",
+              "RelativeToolTip": "DalXml\\CustomerImplementation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-25T19:43:58.799Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }

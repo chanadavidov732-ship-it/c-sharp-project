@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DalApi;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,6 +14,7 @@ namespace BO
         public string CustomerAdress { get; set; }
         public string CustomerPhone { get; set; }
         public DateTime CustomerDateJoin { get; set; }
+
         public Customer(int CustomerId, string CustomerName, string CustomerAdress, string CustomerPhone, DateTime CustomerDateJoin)
         {
             this.CustomerId = CustomerId;
@@ -21,5 +23,6 @@ namespace BO
             this.CustomerPhone = CustomerPhone;
             this.CustomerDateJoin = CustomerDateJoin;
         }
+        public override string ToString() => Tools.ToStringProperty(this);
     }
 }

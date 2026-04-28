@@ -8,5 +8,11 @@ namespace BO
 {
     public class SaleInProduct
     {
+        public int SaleProductId { get; set; }
+        public int SaleProductCount { get; set; }
+        public double SaleProductPrice { get; set; }
+        public bool SaleProductCustomer { get; set; }
+        public SaleInProduct() {}
+        //full ctor
     }
 }

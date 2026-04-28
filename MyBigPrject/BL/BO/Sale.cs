@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DalApi;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BO
 {
-    internal class Sale
+    public class Sale
     {
         public int SaleId { get; set; }
         public int ProductId { get; set; }
@@ -15,7 +16,6 @@ namespace BO
         public bool ForCustomerMember { get; set; }
         public DateTime SaleDateStart { get; set; }
         public DateTime SaleDateEnd { get; set; }
-
 
         public Sale(int SaleId, int ProductId, int Count, int Price, bool ForCustomerMember, DateTime SaleDateStart, DateTime SaleDateEnd)
         {

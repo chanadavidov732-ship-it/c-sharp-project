@@ -25,17 +25,20 @@ namespace Dal
                 return id;
             }  
         }
-        public static int SaleNum { get
+        public static int SaleNum {
+            get
             {
                 XElement xelementConfig = XElement.Load(@"xml\data-config.xml");
                 int id = int.Parse(xelementConfig.Element(SALE_NUM).Value) + 1;
                 xelementConfig.Element(SALE_NUM).SetValue(id);
                 xelementConfig.Save(filePath);
                 return id;
-            } 
+            }
         }
         //בעקרון לא צריך כי מכנחס לבד ID
-        //public static int CustomerNum { get
+        //public static int CustomerNum
+        //{
+        //    get
         //    {
         //        XElement xelementConfig = XElement.Load(@"xml\data-config.xml");
         //        int id = int.Parse(xelementConfig.Element(CUSTOMER_NUM).Value) + 1;
@@ -43,31 +46,6 @@ namespace Dal
         //        xelementConfig.Save(filePath);
         //        return id;
         //    }
-        //}
-        
-        //מה שעשינו לפני הGET אותו הדבר רק עם PROPERTY 
-        //static XElement xelementConfig = new XElement(DATA_CONFIG);
-
-        //public static int GetProductNum()
-        //{
-        //    xelementConfig.Element(PRODUCT_NUM).SetValue(
-        //        int.Parse(xelementConfig.Element(PRODUCT_NUM).Value) + 1);
-        //    xelementConfig.Save(filePath);
-        //    return int.Parse(xelementConfig.Element(PRODUCT_NUM).Value);
-        //}
-        //public static int GetSaleNum()
-        //{
-        //    xelementConfig.Element(SALE_NUM).SetValue(
-        //        int.Parse(xelementConfig.Element(SALE_NUM).Value) + 1);
-        //    xelementConfig.Save(filePath);
-        //    return int.Parse(xelementConfig.Element(SALE_NUM).Value);
-        //}
-        //public static int GetCustomerNum()
-        //{
-        //    xelementConfig.Element(CUSTOMER_NUM).SetValue(
-        //        int.Parse(xelementConfig.Element(CUSTOMER_NUM).Value) + 1);
-        //    xelementConfig.Save(filePath);
-        //    return int.Parse(xelementConfig.Element(CUSTOMER_NUM).Value);
         //}
 
     }

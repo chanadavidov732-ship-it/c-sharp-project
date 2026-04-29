@@ -8,17 +8,18 @@ namespace BO
 {
     public class SaleInProduct
     {
-        public int SaleProductId { get; set; }
-        public int SaleProductCount { get; set; }
-        public double SaleProductPrice { get; set; }
-        public bool SaleProductCustomer { get; set; }
+        public int SaleId { get; set; }
+        public int SaleCount { get; set; }
+        public double SalePrice { get; set; }
+        public bool SaleProductForCustomer { get; set; }
         public SaleInProduct() {}
-        public SaleInProduct(int saleProductId, int saleProductCount, double saleProductPrice, bool saleProductCustomer)
+        public SaleInProduct(int saleId, int saleCount, double salePrice, bool SaleProductForCustomer)
         {
-            SaleProductId = saleProductId;
-            SaleProductCount = saleProductCount;
-            SaleProductPrice = saleProductPrice;
-            SaleProductCustomer = saleProductCustomer;
+            SaleId = SaleId;
+            SaleCount = SaleCount;
+            SalePrice = SalePrice;
+            SaleProductForCustomer = SaleProductForCustomer;
         }
+
     }
 }

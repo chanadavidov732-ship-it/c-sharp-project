@@ -8,22 +8,23 @@ namespace BO
 {
     public class ProductInOrder
     {
-        public int ProductOrderId { get; set; }
-        public string ProductOrderName { get; set; }
-        public double ProductOrderPrice { get; set; }
+        public int ProductId { get; set; }
+        public string ProductName { get; set; }
+        public double ProductPrice { get; set; }
         public int ProductOrderCount { get; set; }
         public List<SaleInProduct> ListSaleInProductOrder;
-        public double ProductOrderTotalPrice { get; set; }
+        public double ProductTotalPrice { get; set; }
 
         public ProductInOrder() {}
-        public ProductInOrder(int productOrderId, string productOrderName, double productOrderPrice, int productOrderCount, List<SaleInProduct> listSaleInProductOrder, double productOrderTotalPrice)
+        public ProductInOrder(int ProductId, string ProductName, double ProductPrice, int productOrderCount, List<SaleInProduct> listSaleInProductOrder, double ProductTotalPrice)
         {
-            ProductOrderId = productOrderId;
-            ProductOrderName = productOrderName;
-            ProductOrderPrice = productOrderPrice;
+            ProductId = ProductId;
+            ProductName = ProductName;
+            ProductPrice = ProductPrice;
             ProductOrderCount = productOrderCount;
             ListSaleInProductOrder = listSaleInProductOrder;
-            ProductOrderTotalPrice = productOrderTotalPrice;
+            ProductTotalPrice = ProductTotalPrice;
         }
+
     }
 }

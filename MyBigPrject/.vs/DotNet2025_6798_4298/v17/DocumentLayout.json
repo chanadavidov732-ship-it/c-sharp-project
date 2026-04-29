@@ -1,17 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user1\\Documents\\c# net\\gitproj\\c-sharp-project\\MyBigPrject\\",
+  "WorkspaceRootPath": "M:\\C#\\gitproj\\c-sharp-project\\MyBigPrject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BBB97584-2DD1-4608-8087-4CB898376440}|BL\\BL.csproj|c:\\users\\user1\\documents\\c# net\\gitproj\\c-sharp-project\\mybigprject\\bl\\blimplementation\\orderimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BBB97584-2DD1-4608-8087-4CB898376440}|BL\\BL.csproj|m:\\c#\\gitproj\\c-sharp-project\\mybigprject\\bl\\blimplementation\\orderimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBB97584-2DD1-4608-8087-4CB898376440}|BL\\BL.csproj|solutionrelative:bl\\blimplementation\\orderimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBB97584-2DD1-4608-8087-4CB898376440}|BL\\BL.csproj|c:\\users\\user1\\documents\\c# net\\gitproj\\c-sharp-project\\mybigprject\\bl\\bo\\productinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BBB97584-2DD1-4608-8087-4CB898376440}|BL\\BL.csproj|m:\\c#\\gitproj\\c-sharp-project\\mybigprject\\bl\\bo\\productinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBB97584-2DD1-4608-8087-4CB898376440}|BL\\BL.csproj|solutionrelative:bl\\bo\\productinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBB97584-2DD1-4608-8087-4CB898376440}|BL\\BL.csproj|c:\\users\\user1\\documents\\c# net\\gitproj\\c-sharp-project\\mybigprject\\bl\\bo\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BBB97584-2DD1-4608-8087-4CB898376440}|BL\\BL.csproj|m:\\c#\\gitproj\\c-sharp-project\\mybigprject\\bl\\bo\\saleinproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB97584-2DD1-4608-8087-4CB898376440}|BL\\BL.csproj|solutionrelative:bl\\bo\\saleinproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB97584-2DD1-4608-8087-4CB898376440}|BL\\BL.csproj|m:\\c#\\gitproj\\c-sharp-project\\mybigprject\\bl\\bo\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB97584-2DD1-4608-8087-4CB898376440}|BL\\BL.csproj|solutionrelative:bl\\bo\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB97584-2DD1-4608-8087-4CB898376440}|BL\\BL.csproj|m:\\c#\\gitproj\\c-sharp-project\\mybigprject\\bl\\bo\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBB97584-2DD1-4608-8087-4CB898376440}|BL\\BL.csproj|solutionrelative:bl\\bo\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,50 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "M:\\C#\\gitproj\\c-sharp-project\\MyBigPrject\\BL\\BO\\Sale.cs",
+              "RelativeDocumentMoniker": "BL\\BO\\Sale.cs",
+              "ToolTip": "M:\\C#\\gitproj\\c-sharp-project\\MyBigPrject\\BL\\BO\\Sale.cs",
+              "RelativeToolTip": "BL\\BO\\Sale.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T11:47:56.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaleInProduct.cs",
+              "DocumentMoniker": "M:\\C#\\gitproj\\c-sharp-project\\MyBigPrject\\BL\\BO\\SaleInProduct.cs",
+              "RelativeDocumentMoniker": "BL\\BO\\SaleInProduct.cs",
+              "ToolTip": "M:\\C#\\gitproj\\c-sharp-project\\MyBigPrject\\BL\\BO\\SaleInProduct.cs",
+              "RelativeToolTip": "BL\\BO\\SaleInProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T11:43:22.8Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ProductInOrder.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Documents\\c# net\\gitproj\\c-sharp-project\\MyBigPrject\\BL\\BO\\ProductInOrder.cs",
+              "DocumentMoniker": "M:\\C#\\gitproj\\c-sharp-project\\MyBigPrject\\BL\\BO\\ProductInOrder.cs",
               "RelativeDocumentMoniker": "BL\\BO\\ProductInOrder.cs",
-              "ToolTip": "C:\\Users\\user1\\Documents\\c# net\\gitproj\\c-sharp-project\\MyBigPrject\\BL\\BO\\ProductInOrder.cs",
+              "ToolTip": "M:\\C#\\gitproj\\c-sharp-project\\MyBigPrject\\BL\\BO\\ProductInOrder.cs",
               "RelativeToolTip": "BL\\BO\\ProductInOrder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-28T19:41:25.93Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Documents\\c# net\\gitproj\\c-sharp-project\\MyBigPrject\\BL\\BO\\Order.cs",
+              "DocumentMoniker": "M:\\C#\\gitproj\\c-sharp-project\\MyBigPrject\\BL\\BO\\Order.cs",
               "RelativeDocumentMoniker": "BL\\BO\\Order.cs",
-              "ToolTip": "C:\\Users\\user1\\Documents\\c# net\\gitproj\\c-sharp-project\\MyBigPrject\\BL\\BO\\Order.cs",
+              "ToolTip": "M:\\C#\\gitproj\\c-sharp-project\\MyBigPrject\\BL\\BO\\Order.cs",
               "RelativeToolTip": "BL\\BO\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T19:31:08.01Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-28T19:31:08.01Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "OrderImplementation.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Documents\\c# net\\gitproj\\c-sharp-project\\MyBigPrject\\BL\\BlImplementation\\OrderImplementation.cs",
+              "DocumentMoniker": "M:\\C#\\gitproj\\c-sharp-project\\MyBigPrject\\BL\\BlImplementation\\OrderImplementation.cs",
               "RelativeDocumentMoniker": "BL\\BlImplementation\\OrderImplementation.cs",
-              "ToolTip": "C:\\Users\\user1\\Documents\\c# net\\gitproj\\c-sharp-project\\MyBigPrject\\BL\\BlImplementation\\OrderImplementation.cs",
+              "ToolTip": "M:\\C#\\gitproj\\c-sharp-project\\MyBigPrject\\BL\\BlImplementation\\OrderImplementation.cs",
               "RelativeToolTip": "BL\\BlImplementation\\OrderImplementation.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAcwCEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-28T19:17:28.046Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }
